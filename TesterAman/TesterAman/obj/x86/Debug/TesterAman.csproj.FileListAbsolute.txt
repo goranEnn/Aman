@@ -6,3 +6,6 @@ C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.Properties.Res
 C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.csproj.GenerateResource.Cache
 C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.exe
 C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.pdb
+C:\GH_test\aman\TesterAman\TesterAman\bin\Debug\TesterAman.exe.config
+C:\GH_test\aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.exe
+C:\GH_test\aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.pdb
