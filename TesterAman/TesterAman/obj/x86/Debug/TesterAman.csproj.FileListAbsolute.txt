@@ -1,1 +1,8 @@
 C:\GH_TESTING\Aman\TesterAman\TesterAman\bin\Debug\TesterAman.exe.config
+C:\GH_TESTING\Aman\TesterAman\TesterAman\bin\Debug\TesterAman.exe
+C:\GH_TESTING\Aman\TesterAman\TesterAman\bin\Debug\TesterAman.pdb
+C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.Form1.resources
+C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.Properties.Resources.resources
+C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.csproj.GenerateResource.Cache
+C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.exe
+C:\GH_TESTING\Aman\TesterAman\TesterAman\obj\x86\Debug\TesterAman.pdb
